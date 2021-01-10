@@ -1,4 +1,4 @@
-#include "common/config.h"
+#include "config/config.h"
 
 namespace cmudb {
   std::atomic<bool> ENABLE_LOGGING(false);  // for virtual table
